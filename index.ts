@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 
 import { differenceInBusinessDays, differenceInSeconds } from "date-fns";
 import inquirer from "inquirer";
